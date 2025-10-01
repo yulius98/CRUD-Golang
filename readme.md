@@ -61,12 +61,7 @@ CREATE TABLE employee (
 
 ## Konfigurasi Database
 
-Aplikasi menggunakan konfigurasi database berikut (dapat diubah di [`database/database.go`](database/database.go)):
-- Host: localhost
-- Port: 3306
-- Database: db_hrd_golang
-- User: root
-- Password: (kosong)
+Aplikasi menggunakan konfigurasi database berikut (dapat diubah di [`database/database.go`](database/database.go))
 
 ## Instalasi & Menjalankan Aplikasi
 
